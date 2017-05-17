@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: myviewports
-email: myviewports@gmail.com
+email: user@server.com
 description: > # this means to ignore newlines until "baseurl:"
   Generate custom CSS viewports and view which devices fit into each viewport.
 baseurl: "" # the subpath of your site, e.g. /blog
